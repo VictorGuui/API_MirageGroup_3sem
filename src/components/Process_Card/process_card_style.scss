@@ -10,7 +10,28 @@
     .input_line{
         display: flex;
         gap: 20px;
+
+
         
+    }
+
+    .title_div{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        button{
+            margin: 0.5em;
+            border-radius: 5px;
+            background-color: #53C4CD;
+            border: 1px solid;
+            width: 20%;
+            height: 2.8em;
+            transition: 0.5s;
+            cursor: pointer;
+            min-width: 80px;
+        }
+
     }
     .input_wrapper{
         display: flex;

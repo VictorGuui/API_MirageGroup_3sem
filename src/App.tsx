@@ -13,7 +13,7 @@ function App() {
 
   return (
   <>
-   <Screen></Screen> 
+   <Process_card></Process_card>
 
   </>
   
